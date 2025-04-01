@@ -1,16 +1,9 @@
-# flutter_train_app
+# 기차예매앱
 
-A new Flutter project.
+사용자는 출발, 도착역을 선택후
 
-## Getting Started
+좌석를 선택, 예약할수 있습니다.
 
-This project is a starting point for a Flutter application.
+편의성을 위해 라이트모드, 다크모드를 MOON 아이콘으로 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+appbar 상단우측부분 메인페이지에서 지원합니다.
